@@ -2,7 +2,7 @@
 
 Submitted by: **Kaelyn Taing**
 
-**Background Changer** is an app that... [TODO] 
+**Background Changer** is an app that changes colors in the background when pressing the button
 
 Time spent: **1** hours spent in total
 
