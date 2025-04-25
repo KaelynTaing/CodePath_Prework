@@ -4,7 +4,7 @@ Submitted by: **Kaelyn Taing**
 
 **Background Changer** is an app that changes colors in the background when pressing the button
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
